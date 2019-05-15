@@ -13,6 +13,10 @@ TryHackMe Python Discord Bot
 
 - TryHackMe Site: https://tryhackme.com
 
+***Contributors***
+
+- Robin
+- lollava
 
 ***Commands:***
 
