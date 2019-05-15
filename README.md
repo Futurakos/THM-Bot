@@ -3,8 +3,24 @@ TryHackMe Python Discord Bot
 
 ![alt text](/images/computer.png?raw=true "Box Bot Logo")
 
-TODO:
-- Add get-write-up command
-- Implement rank api
-- Implement level api
-- Implement new-box api
+**Source:** Created by DarkStar7471 aka J0n
+
+***Description:***
+
+​A bot created for usage on the TryHackMe discord chat server.
+
+***Related Hosting Links***
+
+- TryHackMe Site: https://tryhackme.com
+
+
+***Commands:***
+
+- Ping!
+  - Bot will reply with "@user, Pong!"
+
+  TODO:
+  - Add get-write-up command
+  - Implement rank api
+  - Implement level api
+  - Implement new-box api
