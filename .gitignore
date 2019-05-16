@@ -1,2 +1,5 @@
 #Bot Controller Items
-.control
+*.txt
+
+#Debugging Items
+*.7z
