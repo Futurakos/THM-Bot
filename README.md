@@ -28,4 +28,8 @@ TryHackMe Python Discord Bot
   - Implement rank api
   - Implement level api
   - Implement new-box api
-  - Finalized latency check command
+  - Finalize latency check command
+  - Socials command
+  - !help command
+  - !rules command
+  - Bot status
