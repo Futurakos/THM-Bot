@@ -20,7 +20,7 @@ TryHackMe Python Discord Bot
 
 ***Commands:***
 
-- Ping!
+- !ping
   - Bot will reply with "Pong!"
 
   TODO:
